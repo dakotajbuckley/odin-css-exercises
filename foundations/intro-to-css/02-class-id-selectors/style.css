@@ -1,18 +1,18 @@
-body *:nth-child(odd) {
+.odd {
     background-color: hsl(351, 100%, 86%);
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
-body *:nth-child(2) {
+#bigBlue {
     color: rgb(0,0,255);
     font-size: 36px;
 }
 
-body *:nth-child(3) {
+.big {
     font-size: 24px;
 }
 
-body *:nth-child(4) {
+#greenBackground {
     background-color: #6fe7b1;
     font-size: 24px;
     font-weight: bold;
